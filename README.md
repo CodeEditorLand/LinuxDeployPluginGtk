@@ -14,7 +14,7 @@ This plugin requires the following dependencies in order to work properly:
 -   librsvg2 development files
 -   GTK development files
 
-## Usage
+## 🛠️ Usage
 
 ```bash
 # get linuxdeploy and linuxdeploy-plugin-gtk
